@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cai0f
-- 👀 I’m interested in start my career as a programmer and software developer and/or as a data scientist.
+- 👀 I’m interested in start my career as a back-end developer and/or as a data scientist.
 - 🌱 I’m currently learning Python language, introduction to machine learning and Data Science.
 - 💞️ I’m looking to collaborate on projects using Python language to improve my learning skills as a programmer.
 - 📫 How to reach me caiodcastro86@gmail.com
